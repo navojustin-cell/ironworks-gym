@@ -1,0 +1,18 @@
+# dependencies
+/node_modules
+
+# next.js build output
+/.next
+/out
+
+# env / secrets
+.env
+.env*.local
+
+# os / editor noise
+Thumbs.db
+.DS_Store
+*.swp
+
+# scratch
+/_*.mjs
